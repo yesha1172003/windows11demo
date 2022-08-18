@@ -1,0 +1,1 @@
+this is my final frt project. #azure link https://purple-coast-095ab5510.1.azurestaticapps.net/
