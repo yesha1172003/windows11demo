@@ -1,1 +1,1 @@
-this is my final frt project. #azure link https://purple-coast-095ab5510.1.azurestaticapps.net/
+this is my final frt project. #azure link https://purple-rock-0b6d53910.1.azurestaticapps.net/
